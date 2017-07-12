@@ -1,4 +1,4 @@
-# BigQuery
+![Big Query](BigQuery.png)
 
 The intro video from the <https://cloud.google.com/bigquery> landing page with [a high level overview](https://youtu.be/eyBK9nj-7AA)
 
