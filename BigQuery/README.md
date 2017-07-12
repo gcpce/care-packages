@@ -2,6 +2,8 @@
 
 The intro video from the <https://cloud.google.com/bigquery> landing page with [a high level overview](https://youtu.be/eyBK9nj-7AA)
 
+Detailed documentation for BigQuery is available [here](https://cloud.google.com/bigquery/docs/)
+
 ## Customer Testimonials
 
 This is a very useful video from Google Next 2017  with a panel from Dr. Chad W. Jennings (BQ Product Manager) where
