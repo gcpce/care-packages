@@ -13,7 +13,7 @@ the panelists discuss [Migrating your data warehouse to BQ: lessons learned](htt
 - it covers actual real-life use cases and their learnings from that process
 
 
-## Training and Education
+## Training, Videos, and Education
 
 A technical whitepaper with an [Inside Look into Google BigQuery](https://cloud.google.com/files/BigQueryTechnicalWP.pdf) showing the overall architecture
 
@@ -29,3 +29,7 @@ about some [Advanced Features of Big Query: the data warehouse of the future](ht
 
 The Dremel technical paper is available [here](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 
+## Blogs
+
+The [Google Big Data and Machine Learning Blog](https://cloud.google.com/blog/big-data/) provides
+new and updated information about ongoing developments in these areas at Google
