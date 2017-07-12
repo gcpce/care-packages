@@ -1,8 +1,9 @@
-#BigQuery
+# BigQuery
 
 The intro video from the <https://cloud.google.com/bigquery> landing page with [a high level overview](https://youtu.be/eyBK9nj-7AA)
 
-##Customer Testimonials
+## Customer Testimonials
+
 This is a very useful video from Google Next 2017  with a panel from Dr. Chad W. Jennings (BQ Product Manager) where
 the panelists discuss [Migrating your data warehouse to BQ: lessons learned](https://youtu.be/TLpfGaYWshw)
 - customers presenting include **Yahoo!**, **New York Times**, and **Blue Apron**
@@ -10,7 +11,8 @@ the panelists discuss [Migrating your data warehouse to BQ: lessons learned](htt
 - it covers actual real-life use cases and their learnings from that process
 
 
-##Training and Education
+## Training and Education
+
 A technical whitepaper with an [Inside Look into Google BigQuery](https://cloud.google.com/files/BigQueryTechnicalWP.pdf) showing the overall architecture
 
 Here is a great intro to BQ by Jeff Davis as part of the Google Education Series
