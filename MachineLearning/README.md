@@ -18,6 +18,9 @@ how to leverage TensorFlow and ML in a mobile context
 This Google Next talk shows [Machine Learning APIs by example](https://youtu.be/w1xNTLH1zlA) that
 your enterprise can use to accelerate ML use in production applications with pre-built models
 
+This Devoxx talk is fairly technical and shows [Machine Learning at Google Scale](https://youtu.be/zqWt8oI4gEw) with
+details on the algorithms, technology, and various use cases
+
 ## Blogs
 
 The [Google Big Data and Machine Learning Blog](https://cloud.google.com/blog/big-data/) provides
