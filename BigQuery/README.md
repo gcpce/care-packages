@@ -33,3 +33,6 @@ The Dremel technical paper is available [here](https://static.googleusercontent.
 
 The [Google Big Data and Machine Learning Blog](https://cloud.google.com/blog/big-data/) provides
 new and updated information about ongoing developments in these areas at Google
+
+[This blog post](https://medium.com/google-cloud/paying-it-forward-how-bigquerys-data-ingest-breaks-tech-norms-8bfe2341f5eb) by [Tino Tereshko](https://twitter.com/thetinot) outlines the benefits of BigQuery as a revolutionary tool in the data space. [Tino's blog is available here](https://medium.com/@thetinot) and has links to very useful information.
+
